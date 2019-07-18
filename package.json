@@ -5,7 +5,8 @@
     "main": "",
     "scripts": {
         "test": "npm run",
-        "start": "webpack",
+        "start": "webpack --mode development",
+        "build": "webpack --mode production",
         "init-project": "npm install && npm-run-all init:*",
         "init:dirs": "mkdirp src/components",
         "init:files": "touch README.md index.html",
