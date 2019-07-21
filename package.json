@@ -29,6 +29,7 @@
         "optimize-js-plugin": "0.0.4",
         "react": "^16.8.6",
         "react-dom": "^16.8.6",
+        "react-hot-loader": "^4.12.8",
         "rimraf": "^2.6.3",
         "style-loader": "^0.23.1",
         "webpack": "^4.35.3",
